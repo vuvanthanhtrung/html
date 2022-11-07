@@ -1,0 +1,20 @@
+.menu{
+    background-color: aqua;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+.menu li{
+    float: left;
+    list-style: none;
+}
+.menu a{
+    display: inline-block;
+    padding: 5px 20px;
+    color: white;
+    text-decoration: none;
+}
+.menu a:hover{
+    color: aqua;
+    background-color: white;
+}

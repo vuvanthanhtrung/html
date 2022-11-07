@@ -1,0 +1,44 @@
+#main_wrapper
+{
+    background-color: blue;
+}
+#header
+{
+    background-color: red;
+    height: 50px;
+}
+#menu
+{
+    background-color: aqua;
+}
+#main_content
+{
+    background-color: blueviolet;
+    height: 200px;
+}
+#footer
+{
+    background-color: chocolate;
+    height: 30px;
+}
+#left_sidebar
+{
+    background-color: greenyellow;
+    float: left;
+    width: 100px;
+    height: 200px;
+}
+#right_sidebar
+{
+    background-color: greenyellow;
+    float: right;
+    width: 100px;
+    height: 200px;
+}
+#content
+{
+    background-color: gold;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 200px;
+}
